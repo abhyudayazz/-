@@ -45,7 +45,7 @@
         <div class="row">
           <div class="col-md-8 text-black">
             <h2 class="h4 text-primary font-weight-normal mb-0">Hi, I am</h2>
-            <h1 class="text-uppercase text-xl mb-0">ABHYUDAYA<span class="text-primary">SINGH</span></h1>
+            <h1 class="text-uppercase text-xl mb-0">ABHYUDAYA अभ्यूदय् <span class="text-primary">SINGH सिंह </span></h1>
             <h2 class="h4 font-weight-normal mb-5">A STUDENT</h2>
           </div>
         </div>
