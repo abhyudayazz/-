@@ -196,7 +196,7 @@
       </div>
       <div class="copyrights px-4">
         <div class="container py-4 border-top text-center">
-          <p class="mb-0 text-muted py-2">&copy; All rights reserved. Template designed by devil's house... </p>
+          <p class="mb-0 text-muted py-2">&copy; All rights reserved. Template designed by ME (abhyudaya singh) </p>
         </div>
       </div>
     </footer>
